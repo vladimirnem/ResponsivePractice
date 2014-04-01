@@ -1,0 +1,14 @@
+@media screen and (max-width: 760px) {
+     .wrapper {
+     	width: 760px;
+     }
+     #jumbotron-section tr {
+     	float: none;
+     	display: block;
+     	margin-left:0;
+     	margin-right: 0;
+     }
+     #jumbotron-section > article > div > h1 {
+     	font-size: 3em;
+     }
+}

@@ -1,0 +1,92 @@
+body {
+ font-family: sans-serif;
+ line-height: 1.5em;
+}
+.wrapper {
+   width:980px;
+   padding: 0 2.041%;
+   margin: 0 auto;
+}
+#jumbotron-section header  {
+	margin: 2.041% 0;
+	border-bottom: 1px solid lightgray;
+	overflow: hidden;
+	padding-bottom: 2.041%;
+}
+#jumbotron-section header h1 {
+	font-size: 1.750em;
+	color:#969899;
+	font-family: sans-serif;
+	float: left;
+
+}
+#jumbotron-section header div {
+	float: right;
+	display: inline-block;
+	padding: 0 1.531%;
+	color: #428BC9;
+	font-size: 1em;
+	height: 30px;
+}
+
+.box {
+	background-color: #EEEEEE;
+	border-radius: 5px;
+	text-align: center;
+	padding: 60px;
+
+}
+.box h1 {
+	padding:2.041% 0;
+	font-size: 5em;
+}
+.box p {
+	width:71.428%;
+	margin: 0 auto;
+	padding-top: 4.081%;
+}
+#btn {
+	width: 18.37%;
+	height: 50px;
+	background-color: #5BB85C;
+	margin: 0 auto;
+	margin-top: 4.081%;
+	border-radius: 5px;
+}
+#btn h3 {
+	color: white;
+	font-weight: bold;
+	padding-top: 8.3%;
+	text-align: center;
+
+}
+#jumbotron-section > article {
+	border-bottom: 1px solid lightgray;
+}
+#jumbotron-section > article > table {
+	width: 95.74%;
+	margin: 5.102% auto;
+}
+#jumbotron-section tr {
+	float: left;
+	width:46.94%;
+	padding: 0 1.530%;
+	margin: 0 auto;
+}
+
+#jumbotron-section th {
+	display: block;
+	text-align: left;
+}
+#jumbotron-section td {
+	display: block;
+	text-align: left;
+	font-size: 0.875em;
+	padding-bottom: 2.040%;
+}
+#jumbotron-section footer {
+	margin-top: 10px;
+	font-size: 0.875em;
+	color: lightgray;
+	margin-bottom: 10.240%;
+}
